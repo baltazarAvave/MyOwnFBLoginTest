@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyOwnFBLoginTest</string>
+    <string name="facebook_app_id">529105627280042</string>
+    <string name="id_banner">ca-app-pub-4021047833274585/8471001759</string>
+</resources>
